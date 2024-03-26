@@ -1,1 +1,1 @@
-wait to be filled.
+2023-fall cs61a 的个人记录，discussion都写了，但是懒得整理成文件了。另外Scheme的最后一个Project的两个optional problem没做。
